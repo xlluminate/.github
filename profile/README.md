@@ -1,5 +1,5 @@
 ## Welcome to Illuminate!
-Illuminate is an unblocked games website, with over 150 different games!
+Illuminate is an unblocked games website, with over 500 different games!
 This organization holds the code to everything for Illuminate, including the links page, assets, and more!
 
 ---
